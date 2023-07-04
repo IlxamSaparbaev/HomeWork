@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(166, 146, 146);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+#name {
+    background-color: aqua;
+    padding-left: 200px;
+    padding-bottom: 300px;
+    margin-left: 240px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 240px;
+    color: rgb(194, 188, 74);
+    text-transform: uppercase;
+    border: 5px solid yellow;
+    border-radius: 60px;
+    padding-top: 130px;
+    padding-left: 100px;
+}
+
+
+
+#github{
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    margin-left: -500px;
+    margin-top: -300px;
+    margin-bottom: 300px;
+
+    
+}
+
+#tele{
+    width: 110px;
+    height: 110px;
+    border-radius: 50px;
+    margin-left: -150px;
+    margin-top: -400px;
+    margin-bottom: 400px;
+}
+
+#img{
+    width: 340px;
+    height: 280px;
+    border-radius: 50px;
+    margin-left: 800px;
+    margin-top: -90%;
+    margin-bottom: 450px;
+    max-height: 700px;
+}
